@@ -1,3 +1,7 @@
+# Karina Irna Della
+# 20051397030
+# MI 2020 B
+
 from OpenGL.GL import *
 from OpenGL.GLUT import *
 from OpenGL.GLU import *
